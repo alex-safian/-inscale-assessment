@@ -73,4 +73,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Author
 
-- **Alireza Safian** - _Initial work_ - [Linkedin](https://www.linkedin.com/in/safian/)
+- **Alireza Safian** - _Initial work_ 
+  - [Linkedin](https://www.linkedin.com/in/safian/)
+  - [alireza.safian@gmail.com](mailto:alireza.safian@gmail.com)
+  - [Stackoverflow](https://stackoverflow.com/users/4711404/alex)

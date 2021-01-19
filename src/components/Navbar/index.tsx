@@ -16,8 +16,11 @@ const Navbar: React.FC = () => {
         <NavLink className="nav-link" to="/about" exact>
           About
         </NavLink>
-        {/*@TODO: update github url*/}
-        <a href="#" target="_blank">
+        <a
+          href="https://github.com/alex-safian/-inscale-assessment"
+          target="_blank"
+          rel="noreferrer"
+        >
           <GithubIcon className="w-6" />
         </a>
       </nav>
