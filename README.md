@@ -8,7 +8,7 @@
 
 This is an assessment for INSCALE which is done by Alireza Safian. It is React application and includes a table component which displays list of employees' details.
 
-[Demo](https://netlify.app/)
+[Demo](https://inscale-assessment.netlify.app/)
 
 ### Build
 
